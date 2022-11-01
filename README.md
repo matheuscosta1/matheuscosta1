@@ -1,4 +1,4 @@
-## Oie eu sou a Thay, sou uma dev backend que gosta muito de pessoas e códigos!
+## Olá, sou o Matheus José, um desenvolvedor backend com alguns anos de estrada e que curte muito tecnologia!
 
 <div align="center">
   <a href="https://github.com/matheuscosta1">
