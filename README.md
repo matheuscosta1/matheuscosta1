@@ -1,4 +1,4 @@
-## Olá, sou o Matheus José, desenvolvedor backend!
+## Olá, sou o Matheus, desenvolvedor backend!
 
 <div align="center">
   <a href="https://github.com/matheuscosta1">
